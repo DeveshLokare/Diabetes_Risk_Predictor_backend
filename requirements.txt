@@ -1,0 +1,11 @@
+flask
+flask-cors
+pydantic
+joblib
+numpy
+pandas
+xgboost
+scikit-learn
+shap
+gunicorn
+pytest
